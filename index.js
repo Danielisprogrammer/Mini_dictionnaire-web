@@ -29,5 +29,5 @@ button.addEventListener("click", function () {
     } else {
         result.textContent = "Mot non trouvé dans le dictionnaire. cherche les mots qui ont traits a la tech";
     }
-
+    
 });
