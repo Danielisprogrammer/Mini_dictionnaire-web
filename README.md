@@ -27,8 +27,6 @@ mini-dictionnaire/
 ├── script.js # Logique JavaScript et dictionnaire
 └── README.md # Ce fichier
 
-yaml
-Copier le code
 
 ---
 
@@ -55,4 +53,4 @@ Le projet suit la méthodologie **Git Flow** :
 1. Cloner le dépôt :
 
 ```bash
-git clone <URL_DU_DEPOT>
+git clone git@github.com:Danielisprogrammer/Mini_dictionnaire-web.git
