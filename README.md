@@ -35,14 +35,14 @@ mini-dictionnaire/
 Le projet suit la méthodologie **Git Flow** :
 
 - **main** → Branche stable / production
-- **develop** → Branche de développement principal
-- **feature/...** → Branches pour chaque fonctionnalité :
-  - `feature/interface` → structure HTML
-  - `feature/style` → CSS et design
-  - `feature/dictionnaire-local` → logique JavaScript et dictionnaire
+- **structure** → Branche de développement principal
+- **traduction_js/...** → Branches pour chaque fonctionnalité :
+  - `structure` → structure HTML
+  - `structure` → CSS et design
+  - `traduction_js` → logique JavaScript et dictionnaire
 
 ### Bonnes pratiques :
-- Chaque feature est développée sur sa propre branche
+- Chaque branches est développée sur sa propre branche
 - Les merges se font via **Pull Request** sur GitHub
 - Les branches feature sont supprimées après merge
 
